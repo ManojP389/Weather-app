@@ -1,1 +1,1 @@
-# Weather-app
+I built a Weather App as a major frontend project using HTML, CSS, and JavaScript. It takes a city name from the user and shows live weather updates using data fetched from a weather API. This project improved my skills in working with APIs and dynamic web content
